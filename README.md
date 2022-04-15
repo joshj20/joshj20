@@ -12,6 +12,7 @@ I'm Joshua. I'm a self-taught web developer who knows some <abbr title="HyperTex
 <br>
 I'm intrested in Svelte, React and just web dev in general.
 <br>
+<br>
 <img align="right" src="./joshuaj.png" title="I like Svelte, React & just web development in general." alt="joshj20's profile picture">
 I have made a small project called RandPick. It is just a regular random number picker.
 <br>
