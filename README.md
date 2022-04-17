@@ -3,9 +3,9 @@
 I'm Joshua. I'm a self-taught web developer who knows some <abbr title="HyperText Markup Language">HTML</abbr>, CSS, & Javascript.
 <br />
 <br>
-I'm intrested in Svelte, React and just web dev in general.
+I'm intrested in web development and I'm learning JS!
 <br>
-<img align="right" src="./joshuaj.png" title="I like Svelte, React & just web development in general." alt="joshj20's profile picture" width="400" >
+<img align="right" src="./joshuaj.png" title="I'm intrested in web development and I'm learning JS!" width="400" >
 I have made a small project called RandPick. It is just a regular random number picker.
 <br>
 <br>
