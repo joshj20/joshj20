@@ -19,7 +19,4 @@ I have made a small project called RandPick. It is just a regular random number 
   <a href="https://www.youtube.com/channel/UCaOfcXVQxTXlK-aqB4rUv_w?sub_confirmation=1">
    <img alt="YouTube" title="YouTube" width="22" src="https://github.com/peterthehan/peterthehan/blob/main/assets/youtube.svg">
 </a>
-  <a href="https://github.com/joshj20">
-    <img alt="GitHub" title="GitHub" width="22" src="https://github.com/peterthehan/peterthehan/blob/main/assets/github.svg">
-  </a>
 </p>
