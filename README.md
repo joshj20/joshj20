@@ -18,7 +18,8 @@ I have made a small project called RandPick. It is just a regular random number 
 
 </a>
 <hr>
-<h3>Also check out 👇</h3>
+
+<h3>Also check out <img src="https://user-images.githubusercontent.com/103579257/163775356-8ebe98ea-c3b2-4dde-b221-5f3e8eee5dfa.gif" width="30px"></h3>
 <ul>
   <li><a href="https://github.com/ProCoder201">ProCoder201</a></li>
     <li><a href="https://github.com/ProCoder846">ProCoder846</a></li>
